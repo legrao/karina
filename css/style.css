@@ -53,7 +53,7 @@ main {
 .apresentacao {
     
     display: flex;
-    background-image: url(/img/fundo.png);
+    background-image: url(img/fundo.png);
     border-radius: 10px;
     background-size: cover;
     background-position: center center;
